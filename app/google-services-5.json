@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26894006374",
+    "firebase_url": "https://fir-databaserecyclerview-e54c1.firebaseio.com",
+    "project_id": "fir-databaserecyclerview-e54c1",
+    "storage_bucket": "fir-databaserecyclerview-e54c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26894006374:android:c22be017c15627828b15a7",
+        "android_client_info": {
+          "package_name": "com.nillsimon.firebasedatabaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26894006374-2vmpsg82ro4h7hmpa4m0q22igqg95jd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nillsimon.firebasedatabaserecyclerview",
+            "certificate_hash": "cffbb5873faeaa187e28d611bb14268a8a3c1bb6"
+          }
+        },
+        {
+          "client_id": "26894006374-2qrg2hh2ifhjad6bhao0k5s7g6hucoft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnotk2iEQ-pYIHm1XGtcuLwPkVgasGMsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26894006374-2qrg2hh2ifhjad6bhao0k5s7g6hucoft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
